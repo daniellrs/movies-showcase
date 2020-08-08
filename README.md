@@ -1,11 +1,7 @@
 ## Description
 
-This project is made with React. To start the project run `yarn` to install the dependencies and `yarn start` to start the app in the development mode.
+This is a showcase project created with React.<br />
+It's a website integrated with the [TMDB API](https://www.themoviedb.org/) to pull movies data and display it.
 
-The libraries used in this project are:
+[Click here to view the website.](https://movies-showcase.now.sh/)
 
-typescript - To add type-checking to the code.<br />
-@material-ui/core - To use several ready-made components.<br />
-@material-ui/icons - To use svg icons.<br />
-@reach/router - To manage the routes of the application.<br />
-react-infinite-scroller - To load content when users scroll the page.
